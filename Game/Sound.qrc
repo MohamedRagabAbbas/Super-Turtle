@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/S">
+        <file>main.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
